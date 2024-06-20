@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="13" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[message displayed sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Your appointment canceled !!]]>
+    </line>
+    <line>
+      <![CDATA[message displayed sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[profile updated message displayed]]>
+    </line>
+    <line>
+      <![CDATA[profile updated message displayed sucessfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-19T12:15:30Z" name="Suite" finished-at="2024-06-19T12:16:09Z" duration-ms="38825">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T12:15:30Z" name="Test" finished-at="2024-06-19T12:16:09Z" duration-ms="38825">
+      <class name="com.HMS.Patient.ClickUpdateProfileButton">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.HMS.Patient.ClickUpdateProfileButton@7857fe2]" started-at="2024-06-19T12:15:53Z" name="configBC" finished-at="2024-06-19T12:15:54Z" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.HMS.Patient.ClickUpdateProfileButton@7857fe2]" started-at="2024-06-19T12:15:54Z" name="configBM" finished-at="2024-06-19T12:15:56Z" duration-ms="1697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="verifyUpdateProfile()[pri:0, instance:com.HMS.Patient.ClickUpdateProfileButton@7857fe2]" started-at="2024-06-19T12:15:56Z" name="verifyUpdateProfile" finished-at="2024-06-19T12:15:56Z" duration-ms="857" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[profile updated message displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUpdateProfile -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.HMS.Patient.ClickUpdateProfileButton@7857fe2]" started-at="2024-06-19T12:15:56Z" name="configAM" finished-at="2024-06-19T12:15:57Z" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.HMS.Patient.ClickUpdateProfileButton@7857fe2]" started-at="2024-06-19T12:15:57Z" name="configAC" finished-at="2024-06-19T12:15:57Z" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.HMS.Patient.ClickUpdateProfileButton -->
+      <class name="com.HMS.Patient.ClickMedicalHistoryModule">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.HMS.Patient.ClickMedicalHistoryModule@5db6b9cd]" started-at="2024-06-19T12:15:30Z" name="configBS" finished-at="2024-06-19T12:15:30Z" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.HMS.Patient.ClickMedicalHistoryModule@5db6b9cd]" started-at="2024-06-19T12:15:30Z" name="configBC" finished-at="2024-06-19T12:15:33Z" duration-ms="2915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.HMS.Patient.ClickMedicalHistoryModule@5db6b9cd]" started-at="2024-06-19T12:15:33Z" name="configBM" finished-at="2024-06-19T12:15:35Z" duration-ms="1758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="checkMedicalHistory()[pri:0, instance:com.HMS.Patient.ClickMedicalHistoryModule@5db6b9cd]" started-at="2024-06-19T12:15:35Z" name="checkMedicalHistory" finished-at="2024-06-19T12:15:41Z" duration-ms="6351" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[message displayed sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkMedicalHistory -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.HMS.Patient.ClickMedicalHistoryModule@5db6b9cd]" started-at="2024-06-19T12:15:41Z" name="configAM" finished-at="2024-06-19T12:15:42Z" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.HMS.Patient.ClickMedicalHistoryModule@5db6b9cd]" started-at="2024-06-19T12:15:42Z" name="configAC" finished-at="2024-06-19T12:15:42Z" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.HMS.Patient.ClickMedicalHistoryModule@5db6b9cd]" started-at="2024-06-19T12:16:09Z" name="configAS" finished-at="2024-06-19T12:16:09Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.HMS.Patient.ClickMedicalHistoryModule -->
+      <class name="com.HMS.Patient.ClickBookUpdate">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.HMS.Patient.ClickBookUpdate@210ab13f]" started-at="2024-06-19T12:15:42Z" name="configBC" finished-at="2024-06-19T12:15:43Z" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.HMS.Patient.ClickBookUpdate@210ab13f]" started-at="2024-06-19T12:15:43Z" name="configBM" finished-at="2024-06-19T12:15:45Z" duration-ms="1632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="verifyMedicalHistoryVisible()[pri:0, instance:com.HMS.Patient.ClickBookUpdate@210ab13f]" started-at="2024-06-19T12:15:45Z" name="verifyMedicalHistoryVisible" finished-at="2024-06-19T12:15:47Z" duration-ms="1998" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Your appointment canceled !!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMedicalHistoryVisible -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.HMS.Patient.ClickBookUpdate@210ab13f]" started-at="2024-06-19T12:15:47Z" name="configAM" finished-at="2024-06-19T12:15:47Z" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.HMS.Patient.ClickBookUpdate@210ab13f]" started-at="2024-06-19T12:15:47Z" name="configAC" finished-at="2024-06-19T12:15:48Z" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.HMS.Patient.ClickBookUpdate -->
+      <class name="com.HMS.Patient.CLickAppointmentHistory">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.HMS.Patient.CLickAppointmentHistory@20b2475a]" started-at="2024-06-19T12:15:48Z" name="configBC" finished-at="2024-06-19T12:15:49Z" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.HMS.Patient.CLickAppointmentHistory@20b2475a]" started-at="2024-06-19T12:15:49Z" name="configBM" finished-at="2024-06-19T12:15:50Z" duration-ms="1617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="verifyAppointmentHistory()[pri:0, instance:com.HMS.Patient.CLickAppointmentHistory@20b2475a]" started-at="2024-06-19T12:15:50Z" name="verifyAppointmentHistory" finished-at="2024-06-19T12:15:52Z" duration-ms="1619" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[message displayed sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAppointmentHistory -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.HMS.Patient.CLickAppointmentHistory@20b2475a]" started-at="2024-06-19T12:15:52Z" name="configAM" finished-at="2024-06-19T12:15:52Z" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.HMS.Patient.CLickAppointmentHistory@20b2475a]" started-at="2024-06-19T12:15:52Z" name="configAC" finished-at="2024-06-19T12:15:53Z" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.HMS.Patient.CLickAppointmentHistory -->
+      <class name="com.HMS.Patient.ClickBookAppointmentModule">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.HMS.Patient.ClickBookAppointmentModule@6f15d60e]" started-at="2024-06-19T12:15:57Z" name="configBC" finished-at="2024-06-19T12:15:58Z" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.HMS.Patient.ClickBookAppointmentModule@6f15d60e]" started-at="2024-06-19T12:15:58Z" name="configBM" finished-at="2024-06-19T12:16:00Z" duration-ms="1579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="verifyBookAppointmentmodule()[pri:0, instance:com.HMS.Patient.ClickBookAppointmentModule@6f15d60e]" started-at="2024-06-19T12:16:00Z" name="verifyBookAppointmentmodule" finished-at="2024-06-19T12:16:08Z" duration-ms="7930" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[profile updated message displayed sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBookAppointmentmodule -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.HMS.Patient.ClickBookAppointmentModule@6f15d60e]" started-at="2024-06-19T12:16:08Z" name="configAM" finished-at="2024-06-19T12:16:08Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.HMS.Patient.ClickBookAppointmentModule@6f15d60e]" started-at="2024-06-19T12:16:08Z" name="configAC" finished-at="2024-06-19T12:16:09Z" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.HMS.Patient.ClickBookAppointmentModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
